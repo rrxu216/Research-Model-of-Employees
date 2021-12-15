@@ -11,8 +11,8 @@
 - Reversed coded some contructs to make sure they are all consistent
 - Regressed models independently and generated the interaction effects 
 
-The first file is the requirement of the project[Overview of study variables.pdf](https://github.com/rrxu216/Research-Model-of-Employees/blob/main/Overview%20of%20study%20variables.pdf
+The first file is the requirement of the project(https://github.com/rrxu216/Research-Model-of-Employees/blob/main/Overview%20of%20study%20variables.pdf)
 
-The second file is the code of the project<img width="863" alt="stata code 1" src="https://github.com/rrxu216/Research-Model-of-Employees/blob/main/stata%20code%201.png
+The second file is the code of the project(https://github.com/rrxu216/Research-Model-of-Employees/blob/main/stata%20code%201.png)
 
-The third file is the result of the project[final edition.pdf](https://github.com/rrxu216/Research-Model-of-Employees/blob/main/final%20edition.pdf)
+The third file is the result of the project(https://github.com/rrxu216/Research-Model-of-Employees/blob/main/final%20edition.pdf)
